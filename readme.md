@@ -1,2 +1,2 @@
-#First i use git
-why
+#First i use git.
+why.
