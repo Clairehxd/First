@@ -1,2 +1,4 @@
 #First i use git.
-why.
+
+Windows：FC onefile anotherfile
+Mac & Linux： diff onefile anotherfile
